@@ -69,12 +69,12 @@ h3 {
 }
 p {
   color: rgb(221, 218, 18);
-  background-color: rgba(0, 0, 0, 0.726);
+  background-color: rgba(0, 0, 0, 0.671);
 
 }
 .price {
   color: rgb(255, 255, 255);
-  background-color: rgba(0, 0, 0, 0.678);
+  background-color: rgba(0, 0, 0, 0.671);
 }
 
 h1 {
@@ -86,5 +86,5 @@ span {
 }
 
 section {
-  background-color: rgba(0, 0, 0, 0.712);
+  background-color: rgba(0, 0, 0, 0.671);
 }
